@@ -15,7 +15,7 @@ Flutter
 Dart
 📱 Screenshots
 
-<p> <img src="shoesapp.png" width="300"  height ="600">  <img src="shoeapp2.png" width="300"  height ="600"></p>
+<p> <img src="shoes app.png" width="300"  height ="600">  <img src="shoeapp2.png" width="300"  height ="600"></p>
 
 🎯 Purpose
 
