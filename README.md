@@ -16,10 +16,8 @@ Dart
 📱 Screenshots
 
 <p> <img src="shoes app.png" width="300"  height ="600">
-
-  </p>
   
-  <p><img src="shoeapp2.png" width="300"  height ="600"></p>
+  <img src="shoeapp2.png" width="300"  height ="600"></p>
 
 🎯 Purpose
 
